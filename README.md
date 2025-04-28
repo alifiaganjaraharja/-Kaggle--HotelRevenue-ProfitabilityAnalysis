@@ -38,3 +38,6 @@ For this analysis, I used SQL (specifically BigQuery) to practice my skills in w
 5. Guest Satisfaction Metric
 - Average Review Score: Average guest rating — critical for understanding customer satisfaction.
 - Complaints and Compliments Count: To identify service quality trends.
+
+## Result, Findings, and Recommendations
+
