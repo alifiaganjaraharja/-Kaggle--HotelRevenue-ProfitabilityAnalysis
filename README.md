@@ -19,7 +19,17 @@ For this analysis, I used SQL (specifically BigQuery) to practice writing querie
 | Guest Satisfaction           | Average Review Score, Complaints, Compliments           |
 | Marketing Efficiency         | Marketing Spend vs Revenue, CPA (optional)              |
 
-## Result, Findings, and Recommendations
+## Result, Findings, and Recommendations (Based on 13 Key Metrics)
+
+1. Occupancy Rate Trends
+For the Occupancy Rate Trends, I have calculated and analyzed the trends by Season, Holiday, and Weekday for this hotel.
+- Occupancy rate based on Season: 1. Spring
+                                  2. Winter
+                                  3. Summer
+  Note: These season rankings also apply to Occupancy Rate, Occupancy Managed, and Occupancy All.
+- Occupancy rate based on Weekday: 1. Saturday
+                                   2. 
+
 
 
 
