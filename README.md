@@ -21,8 +21,7 @@ For this analysis, I used SQL (specifically BigQuery) to practice writing querie
 
 ## Result, Findings, and Recommendations (Based on 13 Key Metrics)
 
-1. Occupancy Rate Trends
-For the Occupancy Rate Trends, I have calculated and analyzed the trends by Season, Holiday, and Weekday for this hotel.
+1. **Occupancy Rate Trends**: For the Occupancy Rate Trends, I have calculated and analyzed the trends by Season, Holiday, and Weekday for this hotel.
 - Occupancy rate based on Season:
   
 | **Season**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
@@ -58,8 +57,7 @@ And based on the data above, Holiday recorded the highest occupancy for this hot
 
 From all of those three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturday and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursday and not holiday. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
-2. ADR & RevPAR Trends
-For the ADR & RevPAR Trends analysis, here is the result below.
+2. **ADR & RevPAR Trends**: For the ADR & RevPAR Trends analysis, here is the result below.
 
 | **Season**                    | **Month**                   | **Avg_ADR**                    | **Avg_RevPAR**             |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
