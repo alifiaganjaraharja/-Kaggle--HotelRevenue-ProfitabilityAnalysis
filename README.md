@@ -23,9 +23,12 @@ For this analysis, I used SQL (specifically BigQuery) to practice writing querie
 
 1. Occupancy Rate Trends
 For the Occupancy Rate Trends, I have calculated and analyzed the trends by Season, Holiday, and Weekday for this hotel.
-- Occupancy rate based on Season: 1. Spring
-                                  2. Winter
-                                  3. Summer
+- Occupancy rate based on Season:
+| **Season**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
+|------------------------------|-----------------------------|--------------------------------|----------------------------|
+| Spring                       |  78.0                       | 77.77                          | 78.0                       |
+| Winter                       |                             |                        ||
+| Summer                       | New Booking, No Shows, Cancellations, Channel Analysis  |
   Note: These season rankings also apply to Occupancy Rate, Occupancy Managed, and Occupancy All.
 - Occupancy rate based on Weekday: 1. Saturday
                                    2. 
