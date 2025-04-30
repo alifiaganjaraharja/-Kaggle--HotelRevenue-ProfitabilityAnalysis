@@ -58,7 +58,18 @@ And based on the data above, Holiday recorded the highest occupancy for this hot
 
 From all of those three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturday and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursday and not holiday. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
-2. 
+2. ADR & RevPAR Trends
+For the ADR & RevPAR Trends analysis, here is the result below.
+
+| **Season**                    | **Month**                   | **Avg_ADR**                    | **Avg_RevPAR**             |  
+|-------------------------------|-----------------------------|--------------------------------|----------------------------|
+| Winter                        | 2024-01-01                  | 124.83870967741935             | 96.93548387096773          |
+| Winter                        | 2024-02-01                  | 125.86206896551724             | 98.246206896551712         |
+| Spring                        | 2024-03-01                  | 125.47368421052632             | 97.765263157894736         |
+| Summer                        | 2024-07-01                  | 123.1                          | 89.160999999999987         |
+
+From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR.  
+
 
 
 
