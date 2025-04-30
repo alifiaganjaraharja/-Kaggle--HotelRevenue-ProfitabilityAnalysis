@@ -27,9 +27,9 @@ For the Occupancy Rate Trends, I have calculated and analyzed the trends by Seas
 | **Season**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
 |------------------------------|-----------------------------|--------------------------------|----------------------------|
 | Spring                       |  78.0                       | 77.77                          | 78.0                       |
-| Winter                       |                             |                        ||
-| Summer                       | New Booking, No Shows, Cancellations, Channel Analysis  |
-  Note: These season rankings also apply to Occupancy Rate, Occupancy Managed, and Occupancy All.
+| Winter                       |                             |                                |                            |
+| Summer                       |                             |                                |                            |
+
 - Occupancy rate based on Weekday: 1. Saturday
                                    2. 
 
