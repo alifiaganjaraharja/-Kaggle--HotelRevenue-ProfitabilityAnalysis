@@ -47,5 +47,19 @@ Based on the data above, spring recorded the highest occupancy for this hotel, n
 
 Based on the data above, Saturday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All.
 
+- Occupancy rate based on Holiday:
+
+| **Holiday**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
+|-------------------------------|-----------------------------|--------------------------------|----------------------------|
+| 1 (Holiday)                   |  77.615384615384613         | 77.615384615384613             | 77.615384615384613         |
+| 0 (Not Holiday)               |  77.468750000000014         | 77.468749999999986             | 77.468750000000014         |
+
+And based on the data above, Holiday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
+
+From all of those three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturday and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursday and not holiday. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
+
+2. 
+
+
 
 
