@@ -79,5 +79,16 @@ From the results, it is evident that the hotel's ADR and RevPAR fluctuated throu
 
 From these results, I identified a gap between the total new bookings and total check-ins each month for this hotel, with the largest gap occurring in January, a difference of 51. This finding may require further analysis to determine the exact cause. I also discovered that the number of no-shows peaked in February, while total cancellations were highest in January. Based on this, I recommend implementing stricter cancellation policies or offering incentives for non-refundable bookings during these periods.
 
+4. **Profit Margin**: Profit Margin analysis is one of the most important Key Metrics, and here is the result of my analysis.
 
+| **Month**                     | **Total Revenue**           | **Total Costs**                | **Profit Margin**          |  
+|-------------------------------|-----------------------------|--------------------------------|----------------------------|
+| 3                             | 1035000                     | 261500                         | 74.734299516908209         |
+| 1                             | 1680000                     | 425000                         | 74.702380952380949         |
+| 2                             | 1558000                     | 422500                         | 72.8818998716303           |
+| 7                             | 1554000                     | 576500                         | 62.9021879021879           |
+
+From the results, the highest profit margin occurred in March, which aligns with the Spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, during which the total costs were also at their highest. I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
+
+5. 
 
