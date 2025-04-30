@@ -27,14 +27,25 @@ For the Occupancy Rate Trends, I have calculated and analyzed the trends by Seas
   
 | **Season**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
 |------------------------------|-----------------------------|--------------------------------|----------------------------|
-| Spring                       |  78.0                       | 77.77                          | 78.0                       |
-| Winter                       |  78.0                       | 77.84                          | 78.0                       |
-| Summer                       |  77.0                       | 76.7                           | 77.0                       |
+| Spring                       |  77.8421052631579           | 77.8421052631579               | 77.8421052631579           |
+| Winter                       |  77.76666666666668          | 77.766666666666652             | 77.76666666666668          |
+| Summer                       |  76.7                       | 76.7                           | 76.7                       |
 
+Based on the data above, spring recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
 
-- Occupancy rate based on Weekday: 1. Saturday
-                                   2. 
+- Occupancy rate based on Weekday:
 
+| **Weekday**                  | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
+|------------------------------|-----------------------------|--------------------------------|----------------------------|
+| 6 (Saturday)                 |  78.066666666666663         | 78.066666666666649             | 78.066666666666663         |
+| 2 (Tuesday)                  |  77.764705882352942         | 77.764705882352928             | 77.764705882352942         |
+| 5 (Friday)                   |  77.733333333333334         | 77.733333333333334             | 77.733333333333334         |
+| 3 (Wednesday)                |  77.4                       | 77.399999999999991             | 77.4                       |
+| 1 (Monday)                   |  77.294117647058826         | 77.2941176470588               | 77.294117647058826         |
+| 7 (Sunday)                   |  77.2                       | 77.200000000000017             | 77.2                       |
+| 4 (Thursday)                 |  76.933333333333337         | 76.933333333333309             | 76.933333333333337         |
+
+Based on the data above, Saturday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All.
 
 
 
