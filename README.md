@@ -57,7 +57,7 @@ And based on the data above, Holiday recorded the highest occupancy for this hot
 
 From all of those three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturday and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursday and not holiday. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
-2. **ADR & RevPAR Trends**: For the ADR & RevPAR Trends analysis, here is the result below.
+2. **ADR & RevPAR Trends**: For the ADR & RevPAR Trends analysis, here is the result of my analysis below.
 
 | **Season**                    | **Month**                   | **Avg_ADR**                    | **Avg_RevPAR**             |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
@@ -66,9 +66,18 @@ From all of those three analyses, it can be said that the Occupancy Rate peaked 
 | Spring                        | 2024-03-01                  | 125.47368421052632             | 97.765263157894736         |
 | Summer                        | 2024-07-01                  | 123.1                          | 89.160999999999987         |
 
-From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR.  
+From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR. And my recommendation on this one for this hotel is to focus pricing strategy on high-demand months to maximize yield; consider value-added packages during off-peak periods to maintain ADR.
 
+3. **Booking Trends**: For the Booking Trends analysis, here is the result of my analysis.
 
+| **Month**                    | **Total New Bookings**      | **Total Check-ins**            | **Total No Shows**         | **Total Cancelation**      |
+|------------------------------|-----------------------------|--------------------------------|----------------------------|----------------------------|
+| 2024-01-01                   | 92                          | 41                             | 14                         | 20                         |
+| 2024-02-01                   | 65                          | 44                             | 36                         | 15                         |
+| 2024-03-01                   | 56                          | 26                             | 25                         | 12                         |
+| 2024-07-01                   | 89                          | 45                             | 34                         | 17                         |
+
+From these results, I identified a gap between the total new bookings and total check-ins each month for this hotel, with the largest gap occurring in January, a difference of 51. This finding may require further analysis to determine the exact cause. I also discovered that the number of no-shows peaked in February, while total cancellations were highest in January. Based on this, I recommend implementing stricter cancellation policies or offering incentives for non-refundable bookings during these periods.
 
 
 
