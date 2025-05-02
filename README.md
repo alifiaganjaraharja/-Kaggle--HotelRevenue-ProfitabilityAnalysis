@@ -55,7 +55,7 @@ Based on the data above, Saturday recorded the highest occupancy for this hotel,
 
 And based on the data above, Holiday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
 
-From all of those three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturday and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursday and not holiday. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
+From all three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturdays and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursdays and not on holidays. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
 2. **ADR & RevPAR Trends**: For the ADR & RevPAR Trends analysis, here is the result of my analysis below.
 
@@ -90,5 +90,17 @@ From these results, I identified a gap between the total new bookings and total 
 
 From the results, the highest profit margin occurred in March, which aligns with the Spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, during which the total costs were also at their highest. I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
 
-5. 
+5. **Marketing Spend VS Revenue**: Next up is to analyze the Marketing Spend and how it lead to Revenue for this hotel, and here is the result of my analysis.
+
+| **Month**                     | **Total Revenue**           | **Total Marketing Spend**      | **Revenue per Marketing Spend**   |  
+|-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
+| 1                             | 1680000                     | 1850000                        | 90.810810810810821                |
+| 3                             | 1035000                     | 1150000                        | 90.0                              |
+| 2                             | 1558000                     | 1735000                        | 89.79827089337175                 |
+| 7                             | 1554000                     | 1800000                        | 86.333333333333329                |
+
+Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had a lowest ROI at 86.33% indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing stragey (channel mix, timing, targeting) and consider applying similar tactis in other months, and re-evaluate july's marketing approadch for potential inefficiencies or overspending.
+
+
+
 
