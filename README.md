@@ -99,8 +99,15 @@ From the results, the highest profit margin occurred in March, which aligns with
 | 2                             | 1558000                     | 1735000                        | 89.79827089337175                 |
 | 7                             | 1554000                     | 1800000                        | 86.333333333333329                |
 
-Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had a lowest ROI at 86.33% indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing stragey (channel mix, timing, targeting) and consider applying similar tactis in other months, and re-evaluate july's marketing approadch for potential inefficiencies or overspending.
+Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had the lowest ROI at 86.33%, indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing strategy (channel mix, timing, targeting) and consider applying similar tactics in other months, and re-evaluate July's marketing approach for potential inefficiencies or overspending.
 
+6. **Market Segment Performance**: Finding out how each market segment performs for this hotel is also important, so that the hotel management can know which segment to focus on that leads to a higher occupancy rate. Here is my analysis of it.
 
+| **Guest Type**                | **Average ADR**             | **Average Occupancy Rate**     | **Average Review Score**          |  
+|-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
+| Business                      | 124.83                      | 0.78                           | 4.57                              |
+| Leisure                       | 124.68                      | 0.77                           | 4.56                              |
+
+Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers.
 
 
