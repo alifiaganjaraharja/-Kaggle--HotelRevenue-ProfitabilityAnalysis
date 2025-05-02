@@ -108,6 +108,8 @@ Based on the result above, January recorded the highest marketing spend at 1,850
 | Business                      | 124.83                      | 0.78                           | 4.57                              |
 | Leisure                       | 124.68                      | 0.77                           | 4.56                              |
 
-Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers.
+Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers. While both guest type perform similarly, but the business segment edges out slightly in profitability and satisfaction. So, my recommendation for this hotel is to consider maintaining a strong relationship with corporate clients and ensuring business-related amenities are prioritized. But also still might want to improve satisfaction for the leisure segment through experience-focused services, for example, packages and personalization.
+
+
 
 
