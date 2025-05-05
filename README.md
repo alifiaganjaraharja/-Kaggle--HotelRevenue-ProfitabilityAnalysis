@@ -90,7 +90,7 @@ From these results, I identified a gap between the total new bookings and total 
 
 From the results, the highest profit margin occurred in March, which aligns with the Spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, during which the total costs were also at their highest. I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
 
-5. **Marketing Spend VS Revenue**: Next up is to analyze the Marketing Spend and how it lead to Revenue for this hotel, and here is the result of my analysis.
+5. **Marketing Spend VS Revenue**: Next up is to analyze the Marketing Spend and how it led to Revenue for this hotel, and here is the result of my analysis.
 
 | **Month**                     | **Total Revenue**           | **Total Marketing Spend**      | **Revenue per Marketing Spend**   |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
@@ -99,7 +99,7 @@ From the results, the highest profit margin occurred in March, which aligns with
 | 2                             | 1558000                     | 1735000                        | 89.79827089337175                 |
 | 7                             | 1554000                     | 1800000                        | 86.333333333333329                |
 
-Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had the lowest ROI at 86.33%, indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing strategy (channel mix, timing, targeting) and consider applying similar tactics in other months, and re-evaluate July's marketing approach for potential inefficiencies or overspending.
+Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI, which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had the lowest ROI at 86.33%, indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing strategy (channel mix, timing, targeting) and consider applying similar tactics in other months, and re-evaluate July's marketing approach for potential inefficiencies or overspending.
 
 6. **Market Segment Performance**: Finding out how each market segment performs for this hotel is also important, so that the hotel management can know which segment to focus on that leads to a higher occupancy rate. Here is my analysis of it.
 
@@ -108,8 +108,16 @@ Based on the result above, January recorded the highest marketing spend at 1,850
 | Business                      | 124.83                      | 0.78                           | 4.57                              |
 | Leisure                       | 124.68                      | 0.77                           | 4.56                              |
 
-Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers. While both guest type perform similarly, but the business segment edges out slightly in profitability and satisfaction. So, my recommendation for this hotel is to consider maintaining a strong relationship with corporate clients and ensuring business-related amenities are prioritized. But also still might want to improve satisfaction for the leisure segment through experience-focused services, for example, packages and personalization.
+Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers. While both guest types perform similarly, the business segment edges out slightly in profitability and satisfaction. So, my recommendation for this hotel is to consider maintaining a strong relationship with corporate clients and ensuring business-related amenities are prioritized. But also still might want to improve satisfaction for the leisure segment through experience-focused services, for example, packages and personalization.
 
+7. **Booking Channel Insights**: Just like other key metrics, Booking Channel Insights is also one of the most important key metrics because hotel management can use this data to get a better understanding of where most customers finally book their rooms. Here is my analysis of it.
+
+| **Guest Type**                | **Total**                   | 
+|-------------------------------|-----------------------------|
+| Direct                        | 62                          | 
+| OTA                           | 47                          | 
+
+Based on the data above, direct bookings account for a larger share of the total reservations (62 vs 47), indicating that many guests prefer to book directly with the hotel, possibly due to loyalty programs, personalized offers, or perceived trust. However, higher volume doesn't always necessarily translate into better occupancy (for more detail, I'll explain and show the data where Direct showed more no-shows and booking-checkin gaps). 
 
 
 
