@@ -125,5 +125,6 @@ As shown in the visualization above, a higher volume of total bookings via the D
 
 So my recommendation on this is, first to strengthen the Direct channel by addressing the high no-show rate, consider flexible yet firm cancellation policies, payment guarantees, or automated reminder systems. And second, to leverage OTA success by maintaining a strong presence and possibly offering exclusive value-added services to encourage OTA users to convert into repeat Direct bookers.
 
+8. **Guest Country Trends**
 
 
