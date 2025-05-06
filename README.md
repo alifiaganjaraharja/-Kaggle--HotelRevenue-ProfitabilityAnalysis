@@ -121,6 +121,9 @@ Based on the data above, direct bookings account for a larger share of the total
 
 [📄 View the visualization of Booking Channel VS Booking trend here](https://github.com/alifiaganjaraharja/-Kaggle--HotelRevenue-ProfitabilityAnalysis/blob/main/BookingChannel_Vs_BookingTrend.pdf)
 
-If you've checked the visualization above, it shows that higher volume on Total booking via direct booking did not really necessarily lead to better occupancy because there was 
+As shown in the visualization above, a higher volume of total bookings via the Direct channel does not necessarily lead to better occupancy. Compared to the OTA channel, the booking-to-check-in gap is larger for Direct bookings. This trend is also reflected in the total check-ins between the two channels.
+
+So my recommendation on this is, first to strengthen the Direct channel by addressing the high no-show rate, consider flexible yet firm cancellation policies, payment guarantees, or automated reminder systems. And second, to leverage OTA success by maintaining a strong presence and possibly offering exclusive value-added services to encourage OTA users to convert into repeat Direct bookers.
+
 
 
