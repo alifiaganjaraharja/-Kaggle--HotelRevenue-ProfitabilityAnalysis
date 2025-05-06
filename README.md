@@ -119,5 +119,8 @@ Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 comp
 
 Based on the data above, direct bookings account for a larger share of the total reservations (62 vs 47), indicating that many guests prefer to book directly with the hotel, possibly due to loyalty programs, personalized offers, or perceived trust. However, higher volume doesn't always necessarily translate into better occupancy (for more detail, I'll explain and show the data where Direct showed more no-shows and booking-checkin gaps). 
 
-![IMDb Top 10 Movie Genre Data Visualization](https://github.com/alifiaganjaraharja/-Kaggle--HotelRevenue-ProfitabilityAnalysis/blob/main/BookingChannel_Vs_BookingTrend.pdf?raw=true)
+[📄 View the visualization of Booking Channel VS Booking trend here](https://github.com/alifiaganjaraharja/-Kaggle--HotelRevenue-ProfitabilityAnalysis/blob/main/BookingChannel_Vs_BookingTrend.pdf)
+
+If you've checked the visualization above, it shows that higher volume on Total booking via direct booking did not really necessarily lead to better occupancy because there was 
+
 
