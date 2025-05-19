@@ -125,6 +125,19 @@ As shown in the visualization above, a higher volume of total bookings via the D
 
 So my recommendation on this is, first to strengthen the Direct channel by addressing the high no-show rate, consider flexible yet firm cancellation policies, payment guarantees, or automated reminder systems. And second, to leverage OTA success by maintaining a strong presence and possibly offering exclusive value-added services to encourage OTA users to convert into repeat Direct bookers.
 
-8. **Guest Country Trends**
+8. **Guest Country Trends**: Another important key metric I analyzed in this hotel dataset is guest country trends. This is important because it can help inform several strategic decisions. Here's my analysis of it.
+
+| **Guest Country**             | **Total_Guest**             | 
+|-------------------------------|-----------------------------|
+| USA                           | 29                          | 
+| Germany                       | 21                          | 
+| UK                            | 21                          | 
+| France                        | 13                          | 
+| Spain                         | 13                          | 
+| Italy                         | 12                          | 
+
+As shown above, the USA leads as the top source of guests with 29 visitors over several months, indicating strong market presence or marketing effectiveness in the U.S. Germany and the UK follow closely, suggesting these are also high-potential markets to engage. And Western European countries such as France, Spain, and Italy make up a significant portion of the guest list, which could reflect regional travel trends, partnerships, or flight connectivity.
+
+My recommendation for this hotel based on this data is:
 
 
