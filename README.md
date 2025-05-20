@@ -138,6 +138,27 @@ So my recommendation on this is, first to strengthen the Direct channel by addre
 
 As shown above, the USA leads as the top source of guests with 29 visitors over several months, indicating strong market presence or marketing effectiveness in the U.S. Germany and the UK follow closely, suggesting these are also high-potential markets to engage. And Western European countries such as France, Spain, and Italy make up a significant portion of the guest list, which could reflect regional travel trends, partnerships, or flight connectivity.
 
-My recommendation for this hotel based on this data is:
+My recommendation for this hotel, based on this data, is to keep focus on digital marketing, retargeting ads, and travel promotions in the USA, UK, and Germany, where demand is already strong. And probably provide amenities or services tailored to preferences from top countries (e.g., breakfast styles, TV channels, concierge services).
+
+9. **Complaints vs Compliments**: Another key metric I analyzed is how many complaints and compliments the guests gave during a period of time for this hotel. This could be important to analyze and understand the overall customer or guest satisfaction for this hotel. Here is the result:
+   
+| **Month**                     | **Total Complaints**        | **Total Compliments**          | **Average Review Score**          |  
+|-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
+| 1                             | 32                          | 30                             | 4.5967741935483879                |
+| 2                             | 43                          | 22                             | 4.5758620689655167                |
+| 3                             | 19                          | 20                             | 4.6052631578947381                |
+| 7                             | 33                          | 35                             | 4.4966666666666661                |
+
+Based on the data above, a spike in total complaints arose in the second month (February), with 43 complaints and only 22 compliments. While the highest review score occurred in March (Approximately 4.61) with fewer complaints (19) and balanced compliments (20), this indicates **strong overall satisfaction and service consistency**.
+
+So my recommendation based on this data is to investigate February's high complaint volume by diving into specific feedback themes: Was it because of staffing, cleanliness, check-in delays, etc? Then capitalize on or leverage March's success by identifying what went right: Was it because of right-staffing levels, guest mix, promotions, or else? And replicate or reapply to other months. 
+
+10. **Review Score Impact**
+
+11. **Revenue vs. Room Revenue**
+  
+12. **Fixed vs Variable Cost Trends**
+    
+13. **Managed Guests vs. All Guests**
 
 
