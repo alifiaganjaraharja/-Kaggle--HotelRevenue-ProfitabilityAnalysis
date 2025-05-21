@@ -153,9 +153,28 @@ Based on the data above, a spike in total complaints arose in the second month (
 
 So my recommendation based on this data is to investigate February's high complaint volume by diving into specific feedback themes: Was it because of staffing, cleanliness, check-in delays, etc? Then capitalize on or leverage March's success by identifying what went right: Was it because of right-staffing levels, guest mix, promotions, or else? And replicate or reapply to other months. 
 
-10. **Review Score Impact**
+10. **Review Score Impact**: Next, the key metric I analyzed is the review score impact on RevPAR and ADR. Here is the result of my analysis on this.
 
-11. **Revenue vs. Room Revenue**
+| **review Score Gruoup**       | **Average ADR**             | **Average RevPAR**             | **Room Nights**                   |  
+|-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
+| High(>=4.2)                   | 124.74                      | 95.29                          | 109                               |
+
+From the result above, the data shows that the review score group (≥ 4.2), which means that guests who rated their stay 4.2 or higher, is associated with stronger revenue performance. Then, Average ADR (Average Daily Rate) is 124.74, which means that these rooms generate an ADR of 124.74, which likely reflects a better willingness to pay for quality service. And Average RevPAR (Revenue per Available Room) is 95.29, which confirms that not only are rates higher, but occupancy is likely better too. Business insights that can be retrieved from these insights are: High guest satisfaction directly correlates with profitability, and enhancing service quality, cleanliness, and staff responsiveness can probably lead to more 4.2+ reviews, thereby boosting both ADR and RevPAR.
+
+My suggestion for this hotel is to keep focusing on reputation management by actively responding to guest feedback, encouraging satisfied guests to leave reviews, and investing in training and guest experience improvement, and monitoring and increase revenue performance.
+
+11. **Revenue vs. Room Revenue**: Another important key metric I analyzed is Revenue vs Room Revenue. This metric is quite important since the main service of a hotel is to sell its rooms. By analyzing and comparing both Total Revenue and Room Revenue, we can identify if its rooms really contribute to the overall revenue for this hotel. And here is the result of my analysis.
+
+| **Month**                     | **Total Room Revenue**      | **Total Revenue**              | **Room Revenue Contribution**     |  
+|-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
+| 2                             | 1384000                     | 1558000                        | 89.0                              |
+| 1                             | 1373000                     | 1554000                        | 88.0                              |
+| 7                             | 1465000                     | 1680000                        | 87.0                              |
+| 3                             | 902000                      | 1035000                        | 87.0                              |
+
+From the result above, it is evident that Room Revenue plays a pivotal role for this hotel since the data shows that every month, Room Revenue accounts for 87-89% of the total revenue across these months. This tells that room bookings are the primary revenue for the hotel. February (2) has the highest room revenue contribution at 89%, while March has the lowest in the group at 87%, but still quite high.
+
+And my suggestion for this hotel regarding this is focusing on optimizing room sales strategies such as pricing, upselling, and occupancy. Look into additional services like F&B, Spa, or events to diversify income and reduce dependency on room bookings. And investigate if the remaining 11-13% (non-room revenue) can be scaled for better overall profitability.
   
 12. **Fixed vs Variable Cost Trends**
     
