@@ -176,8 +176,21 @@ From the result above, it is evident that Room Revenue plays a pivotal role for 
 
 And my suggestion for this hotel regarding this is focusing on optimizing room sales strategies such as pricing, upselling, and occupancy. Look into additional services like F&B, Spa, or events to diversify income and reduce dependency on room bookings. And investigate if the remaining 11-13% (non-room revenue) can be scaled for better overall profitability.
   
-12. **Fixed vs Variable Cost Trends**
+12. **Fixed vs Variable Cost Trends**: Next, I analyzed and compared fixed and variable costs. This key metric is important in order to get a better understanding of how effectively each cost is spent by this hotel, and also how to navigate every cost. Here is my result.
+
+| **Month**        | **Total Fixed Costs**    | **Total Variable Costs**   | **Total Costs**          |**Fixed Costs Percentage**     |**Variable Costs Percentage**     |
+|------------------|--------------------------|----------------------------|--------------------------|-------------------------------|----------------------------------|
+| 7                | 151000                   | 1959500                    | 576500                   | 7.15                          | 92.85                            |
+| 2                | 166000                   | 2046500                    | 422500                   | 7.5                           | 92.5                             |
+| 1                | 185000                   | 2205000                    | 425000                   | 7.74                          | 92.26                            |
+| 3                | 115000                   | 1359500                    | 261500                   | 7.8                           | 92.2                             |
+
+From the data above, the insights that I can summarize from these are that across all months, the Variable Cost proportion of this hotel is high (Variable costs consistently make up around 92% of total costs. This means that the hotel's expenses scale heavily with activity levels such as Guests, Services, and Amenities. While for fixed costs proportion is low and stable around 7-8%. This means that the hotel's expenses on salaries, rent, or maintenance remain stable, which is common in businesses that scale per customer.
+
+Then my suggestion regarding this for this hotel is to monitor Variable Cost Drivers since Variable costs are dominating, by focusing on efficiency i guest-related services, utilities, and consumables. 
     
-13. **Managed Guests vs. All Guests**
+13. **Managed Guests vs. All Guests**: The Last key metric I analyzed is to compare Managed Guests vs. All Guests. Managed guests are guests of the hotel that actually served, including guests who checked in and were managed by the staff, while All Guests refer to everyone who made a booking, regardless of whether they checked in, canceled, or even were a no-show. And by analyzing it, it gives the hotel insight into both demand and operational performance. Here's my result regarding this:
+  
+
 
 
