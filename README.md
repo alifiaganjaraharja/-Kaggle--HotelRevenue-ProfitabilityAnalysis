@@ -70,12 +70,12 @@ From the results, it is evident that the hotel's ADR and RevPAR fluctuated throu
 
 3. **Booking Trends**: For the Booking Trends analysis, here is the result of my analysis.
 
-| **Month**                    | **Total New Bookings**      | **Total Check-ins**            | **Total No Shows**         | **Total Cancelation**      |
-|------------------------------|-----------------------------|--------------------------------|----------------------------|----------------------------|
-| 2024-01-01                   | 92                          | 41                             | 14                         | 20                         |
-| 2024-02-01                   | 65                          | 44                             | 36                         | 15                         |
-| 2024-03-01                   | 56                          | 26                             | 25                         | 12                         |
-| 2024-07-01                   | 89                          | 45                             | 34                         | 17                         |
+| **Month**    | **Total New Bookings**      | **Total Check-ins**            | **Total No Shows**         | **Total Cancelation**      |**Booking Checkin Gap**    |
+|--------------|-----------------------------|--------------------------------|----------------------------|----------------------------|---------------------------|
+| 2024-01-01   | 92                          | 41                             | 14                         | 20                         | 51                        |
+| 2024-02-01   | 65                          | 44                             | 36                         | 15                         | 21                        |
+| 2024-03-01   | 56                          | 26                             | 25                         | 12                         | 30                        |
+| 2024-07-01   | 89                          | 45                             | 34                         | 17                         | 44                        |
 
 From these results, I identified a gap between the total new bookings and total check-ins each month for this hotel, with the largest gap occurring in January, a difference of 51. This finding may require further analysis to determine the exact cause. I also discovered that the number of no-shows peaked in February, while total cancellations were highest in January. Based on this, I recommend implementing stricter cancellation policies or offering incentives for non-refundable bookings during these periods.
 
