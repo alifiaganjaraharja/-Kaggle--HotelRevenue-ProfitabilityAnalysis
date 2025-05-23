@@ -50,8 +50,8 @@ Based on the data above, Saturday recorded the highest occupancy for this hotel,
 
 | **Holiday**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
-| 1 (Holiday)                   |  77.615384615384613         | 77.615384615384613             | 77.615384615384613         |
-| 0 (Not Holiday)               |  77.468750000000014         | 77.468749999999986             | 77.468750000000014         |
+| 1 (Holiday)                   |  78.0                       | 77.62                          | 77.62                      |
+| 0 (Not Holiday)               |  77.0                       | 77.47                          | 77.47                      |
 
 And based on the data above, Holiday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
 
