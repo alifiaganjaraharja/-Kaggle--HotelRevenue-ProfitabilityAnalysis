@@ -144,10 +144,10 @@ My recommendation for this hotel, based on this data, is to keep focus on digita
    
 | **Month**                     | **Total Complaints**        | **Total Compliments**          | **Average Review Score**          |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
-| 1                             | 32                          | 30                             | 4.5967741935483879                |
-| 2                             | 43                          | 22                             | 4.5758620689655167                |
-| 3                             | 19                          | 20                             | 4.6052631578947381                |
-| 7                             | 33                          | 35                             | 4.4966666666666661                |
+| 1                             | 32                          | 30                             | 4.6                               |
+| 2                             | 43                          | 22                             | 4.58                              |
+| 3                             | 19                          | 20                             | 4.61                              |
+| 7                             | 33                          | 35                             | 4.5                               |
 
 Based on the data above, a spike in total complaints arose in the second month (February), with 43 complaints and only 22 compliments. While the highest review score occurred in March (Approximately 4.61) with fewer complaints (19) and balanced compliments (20), this indicates **strong overall satisfaction and service consistency**.
 
