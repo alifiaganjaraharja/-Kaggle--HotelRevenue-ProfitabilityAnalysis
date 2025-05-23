@@ -83,10 +83,10 @@ From these results, I identified a gap between the total new bookings and total 
 
 | **Month**                     | **Total Revenue**           | **Total Costs**                | **Profit Margin**          |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
-| 3                             | 1035000                     | 261500                         | 74.734299516908209         |
-| 1                             | 1680000                     | 425000                         | 74.702380952380949         |
-| 2                             | 1558000                     | 422500                         | 72.8818998716303           |
-| 7                             | 1554000                     | 576500                         | 62.9021879021879           |
+| 3                             | 1035000                     | 261500                         | 74.73                      |
+| 1                             | 1680000                     | 425000                         | 74.7                       |
+| 2                             | 1558000                     | 422500                         | 72.88                      |
+| 7                             | 1554000                     | 576500                         | 62.9                       |
 
 From the results, the highest profit margin occurred in March, which aligns with the Spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, during which the total costs were also at their highest. I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
 
