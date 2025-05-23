@@ -94,10 +94,10 @@ From the results, the highest profit margin occurred in March, which aligns with
 
 | **Month**                     | **Total Revenue**           | **Total Marketing Spend**      | **Revenue per Marketing Spend**   |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
-| 1                             | 1680000                     | 1850000                        | 90.810810810810821                |
+| 1                             | 1680000                     | 1850000                        | 91.0                              |
 | 3                             | 1035000                     | 1150000                        | 90.0                              |
-| 2                             | 1558000                     | 1735000                        | 89.79827089337175                 |
-| 7                             | 1554000                     | 1800000                        | 86.333333333333329                |
+| 2                             | 1558000                     | 1735000                        | 90.0                              |
+| 7                             | 1554000                     | 1800000                        | 86.0.                             |
 
 Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI, which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had the lowest ROI at 86.33%, indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing strategy (channel mix, timing, targeting) and consider applying similar tactics in other months, and re-evaluate July's marketing approach for potential inefficiencies or overspending.
 
