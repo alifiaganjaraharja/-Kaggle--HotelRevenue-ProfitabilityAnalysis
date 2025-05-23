@@ -26,9 +26,9 @@ For this analysis, I used SQL (specifically BigQuery) to practice writing querie
   
 | **Season**                   | **Average Occupancy Rate**  | **Average Occupancy Managed**  | **Average Occupancy All**  |  
 |------------------------------|-----------------------------|--------------------------------|----------------------------|
-| Spring                       |  77.8421052631579           | 77.8421052631579               | 77.8421052631579           |
-| Winter                       |  77.76666666666668          | 77.766666666666652             | 77.76666666666668          |
-| Summer                       |  76.7                       | 76.7                           | 76.7                       |
+| Spring                       |  77.84                      | 77.84                          | 78.0                       |
+| Winter                       |  77.77                      | 77.77                          | 78.0                       |
+| Summer                       |  76.7                       | 76.7                           | 77.0                       |
 
 Based on the data above, spring recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
 
