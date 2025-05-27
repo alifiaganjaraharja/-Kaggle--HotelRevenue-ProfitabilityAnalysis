@@ -55,7 +55,7 @@ And based on the data above, Holiday recorded the highest occupancy for this hot
 
 From all three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturdays and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursdays and not on holidays. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
-2. **ADR & RevPAR Trends**: For the ADR & RevPAR Trends analysis, here is the result of my analysis below.
+2. **ADR & RevPAR Trends**: For the ADR & RevPAR trends analysis, the results are as follows.
 
 | **Season**                    | **Month**                   | **Avg_ADR**                    | **Avg_RevPAR**             |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
@@ -64,9 +64,11 @@ From all three analyses, it can be said that the Occupancy Rate peaked during th
 | Spring                        | 2024-03-01                  | 125.47                         | 97.77                      |
 | Summer                        | 2024-07-01                  | 123.1                          | 89.16                      |
 
-From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR. And my recommendation on this one for this hotel is to focus pricing strategy on high-demand months to maximize yield; consider value-added packages during off-peak periods to maintain ADR.
+From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR.
 
-3. **Booking Trends**: For the Booking Trends analysis, here is the result of my analysis.
+Based on this analysis, my recommendation for the hotel is to focus its pricing strategy on high-demand months to maximize yield, and to consider offering value-added packages during off-peak periods to maintain ADR.
+
+3. **Booking Trends**: Next, for the Booking Trends analysis, the results of my analysis are as follows.
 
 | **Month**    | **Total New Bookings**      | **Total Check-ins**            | **Total No Shows**         | **Total Cancelation**      |**Booking Checkin Gap**    |
 |--------------|-----------------------------|--------------------------------|----------------------------|----------------------------|---------------------------|
@@ -75,9 +77,11 @@ From the results, it is evident that the hotel's ADR and RevPAR fluctuated throu
 | 2024-03-01   | 56                          | 26                             | 25                         | 12                         | 30                        |
 | 2024-07-01   | 89                          | 45                             | 34                         | 17                         | 44                        |
 
-From these results, I identified a gap between the total new bookings and total check-ins each month for this hotel, with the largest gap occurring in January, a difference of 51. This finding may require further analysis to determine the exact cause. I also discovered that the number of no-shows peaked in February, while total cancellations were highest in January. Based on this, I recommend implementing stricter cancellation policies or offering incentives for non-refundable bookings during these periods.
+From these results, I identified a gap between the total new bookings and total check-ins each month for this hotel, with the largest gap occurring in January, a difference of 51. This finding may require further analysis to determine the exact cause. I also discovered that the number of no-shows peaked in February, while total cancellations were highest in January.
 
-4. **Profit Margin**: Profit Margin analysis is one of the most important Key Metrics, and here is the result of my analysis.
+Based on these insights, I recommend implementing stricter cancellation policies or offering incentives for non-refundable bookings during these periods.
+
+4. **Profit Margin**: Profit Margin analysis is one of the most important Key Metrics, and the result of my analysis is as follows.
 
 | **Month**                     | **Total Revenue**           | **Total Costs**                | **Profit Margin**          |  
 |-------------------------------|-----------------------------|--------------------------------|----------------------------|
@@ -86,9 +90,11 @@ From these results, I identified a gap between the total new bookings and total 
 | 2                             | 1558000                     | 422500                         | 72.88                      |
 | 7                             | 1554000                     | 576500                         | 62.9                       |
 
-From the results, the highest profit margin occurred in March, which aligns with the Spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, during which the total costs were also at their highest. I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
+From the results, the highest profit margin occurred in March, aligning with the spring season. This suggests that higher occupancy rates may contribute to increased profit margins for this hotel. Conversely, the lowest profit margin was recorded in July, a month that also saw the highest total costs.
 
-5. **Marketing Spend VS Revenue**: Next up is to analyze the Marketing Spend and how it led to Revenue for this hotel, and here is the result of my analysis.
+I recommend optimizing operational efficiency and reducing expenses during low-traffic periods to help maintain profitability.
+
+5. **Marketing Spend VS Revenue**: Next, I analyzed the marketing spend and its impact on revenue for this hotel. Below are the results of my analysis.
 
 | **Month**                     | **Total Revenue**           | **Total Marketing Spend**      | **Revenue per Marketing Spend**   |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
@@ -97,33 +103,37 @@ From the results, the highest profit margin occurred in March, which aligns with
 | 2                             | 1558000                     | 1735000                        | 90.0                              |
 | 7                             | 1554000                     | 1800000                        | 86.0.                             |
 
-Based on the result above, January recorded the highest marketing spend at 1,850,000, and it also yielded the highest marketing ROI, which is at 90.91%. This suggests that January's marketing campaigns were the most effective by generating more revenue per unit of marketing spend. However, July had the lowest ROI at 86.33%, indicating less efficiency in converting marketing spend into revenue. So my recommendations are to analyze January's marketing strategy (channel mix, timing, targeting) and consider applying similar tactics in other months, and re-evaluate July's marketing approach for potential inefficiencies or overspending.
+Based on the results above, January recorded the highest marketing spend at 1,850,000 and also achieved the highest marketing ROI at 90.91%. This suggests that January's marketing campaigns were the most effective, generating more revenue per unit of marketing spend. Conversely, July had the lowest ROI at 86.33%, indicating lower efficiency in converting marketing spend into revenue.
 
-6. **Market Segment Performance**: Finding out how each market segment performs for this hotel is also important, so that the hotel management can know which segment to focus on that leads to a higher occupancy rate. Here is my analysis of it.
+My recommendations are to analyze January’s marketing strategy—including channel mix, timing, and targeting—and consider applying similar tactics in other months. Additionally, July’s marketing approach should be re-evaluated for potential inefficiencies or overspending.
+
+6. **Market Segment Performance**: Understanding how each market segment performs is crucial for hotel management to identify which segments contribute most to occupancy rates. Below is my analysis of market segment performance.
 
 | **Guest Type**                | **Average ADR**             | **Average Occupancy Rate**     | **Average Review Score**          |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
 | Business                      | 124.83                      | 0.78                           | 4.57                              |
 | Leisure                       | 124.68                      | 0.77                           | 4.56                              |
 
-Average Daily Rate (ADR) is slightly higher for Business guests with 124.83 compared to Leisure 124.68, indicating both segments are nearly equal in revenue contribution per room night for this hotel. However, the Occupancy Rate is originally higher for Business guests, suggesting consistent room utilization from this segment. Review Scores are also slightly better from Business guests (4.57 vs. 4.56), hinting at a comparable but possibly more consistent satisfaction level among business travelers. While both guest types perform similarly, the business segment edges out slightly in profitability and satisfaction. So, my recommendation for this hotel is to consider maintaining a strong relationship with corporate clients and ensuring business-related amenities are prioritized. But also still might want to improve satisfaction for the leisure segment through experience-focused services, for example, packages and personalization.
+The Average Daily Rate (ADR) is slightly higher for business guests at 124.83 compared to 124.68 for leisure guests, indicating that both segments contribute almost equally in revenue per room night. However, the occupancy rate is higher for business guests, suggesting more consistent room utilization from this segment. Review scores are also slightly better among business guests (4.57 vs. 4.56), hinting at a comparable-but—possibly more consistent—satisfaction level.
 
-7. **Booking Channel Insights**: Just like other key metrics, Booking Channel Insights is also one of the most important key metrics because hotel management can use this data to get a better understanding of where most customers finally book their rooms. Here is my analysis of it.
+While both guest types perform similarly, the business segment edges out slightly in profitability and guest satisfaction. Therefore, my recommendation is for the hotel to maintain strong relationships with corporate clients and prioritize business-related amenities. At the same time, the hotel should look for ways to improve satisfaction among leisure guests by offering experience-focused services such as personalized packages and add-ons.
+
+7. **Booking Channel Insights**: Like other key metrics, booking channel insights are crucial because they help hotel management understand where most customers make their final room bookings. Below is my analysis.
 
 | **Guest Type**                | **Total**                   | 
 |-------------------------------|-----------------------------|
 | Direct                        | 62                          | 
 | OTA                           | 47                          | 
 
-Based on the data above, direct bookings account for a larger share of the total reservations (62 vs 47), indicating that many guests prefer to book directly with the hotel, possibly due to loyalty programs, personalized offers, or perceived trust. However, higher volume doesn't always necessarily translate into better occupancy (for more detail, I'll explain and show the data where Direct showed more no-shows and booking-checkin gaps). 
+Based on the data above, direct bookings account for a larger share of total reservations (62 vs. 47), indicating that many guests prefer to book directly with the hotel, possibly due to loyalty programs, personalized offers, or greater trust. However, a higher booking volume does not necessarily translate into better occupancy. (For more details, I will explain and show data where direct bookings had more no-shows and booking-to-check-in gaps.) 
 
 [📄 View the visualization of Booking Channel VS Booking trend here](https://github.com/alifiaganjaraharja/-Kaggle--HotelRevenue-ProfitabilityAnalysis/blob/main/BookingChannel_Vs_BookingTrend.pdf)
 
 As shown in the visualization above, a higher volume of total bookings via the Direct channel does not necessarily lead to better occupancy. Compared to the OTA channel, the booking-to-check-in gap is larger for Direct bookings. This trend is also reflected in the total check-ins between the two channels.
 
-So my recommendation on this is, first to strengthen the Direct channel by addressing the high no-show rate, consider flexible yet firm cancellation policies, payment guarantees, or automated reminder systems. And second, to leverage OTA success by maintaining a strong presence and possibly offering exclusive value-added services to encourage OTA users to convert into repeat Direct bookers.
+My recommendations are twofold: first, strengthen the Direct channel by addressing the high no-show rate through flexible yet firm cancellation policies, payment guarantees, or automated reminder systems; and second, leverage the OTA channel’s success by maintaining a strong presence and potentially offering exclusive value-added services to encourage OTA users to become repeat Direct bookers.
 
-8. **Guest Country Trends**: Another important key metric I analyzed in this hotel dataset is guest country trends. This is important because it can help inform several strategic decisions. Here's my analysis of it.
+8. **Guest Country Trends**: Another important key metric I analyzed in this hotel dataset is guest country trends. Understanding these trends is crucial as it can inform several strategic decisions. Below is my analysis.
 
 | **Guest Country**             | **Total_Guest**             | 
 |-------------------------------|-----------------------------|
@@ -134,11 +144,11 @@ So my recommendation on this is, first to strengthen the Direct channel by addre
 | Spain                         | 13                          | 
 | Italy                         | 12                          | 
 
-As shown above, the USA leads as the top source of guests with 29 visitors over several months, indicating strong market presence or marketing effectiveness in the U.S. Germany and the UK follow closely, suggesting these are also high-potential markets to engage. And Western European countries such as France, Spain, and Italy make up a significant portion of the guest list, which could reflect regional travel trends, partnerships, or flight connectivity.
+As shown above, the USA is the top source of guests with 29 visitors over several months, indicating a strong market presence or effective marketing in the U.S. Germany and the UK follow closely, suggesting these are also high-potential markets to target. Western European countries such as France, Spain, and Italy also make up a significant portion of the guest list, which may reflect regional travel trends, partnerships, or flight connectivity.
 
-My recommendation for this hotel, based on this data, is to keep focus on digital marketing, retargeting ads, and travel promotions in the USA, UK, and Germany, where demand is already strong. And probably provide amenities or services tailored to preferences from top countries (e.g., breakfast styles, TV channels, concierge services).
+Based on this data, my recommendation for the hotel is to continue focusing on digital marketing, retargeting ads, and travel promotions in the USA, UK, and Germany, where demand is already strong. Additionally, consider providing amenities or services tailored to preferences from these top countries, such as breakfast options, TV channels, or concierge services, to enhance guest satisfaction.
 
-9. **Complaints vs Compliments**: Another key metric I analyzed is how many complaints and compliments the guests gave during a period of time for this hotel. This could be important to analyze and understand the overall customer or guest satisfaction for this hotel. Here is the result:
+9. **Complaints vs Compliments**: Another key metric I analyzed is the number of complaints and compliments received from guests over a period of time. This is important for understanding overall customer satisfaction at the hotel. Below are the results:
    
 | **Month**                     | **Total Complaints**        | **Total Compliments**          | **Average Review Score**          |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
@@ -147,21 +157,23 @@ My recommendation for this hotel, based on this data, is to keep focus on digita
 | 3                             | 19                          | 20                             | 4.61                              |
 | 7                             | 33                          | 35                             | 4.5                               |
 
-Based on the data above, a spike in total complaints arose in the second month (February), with 43 complaints and only 22 compliments. While the highest review score occurred in March (Approximately 4.61) with fewer complaints (19) and balanced compliments (20), this indicates **strong overall satisfaction and service consistency**.
+Based on the data above, a spike in total complaints occurred in the second month (February), with 43 complaints and only 22 compliments. In contrast, the highest review score was recorded in March (approximately 4.61), with fewer complaints (19) and a balanced number of compliments (20). This suggests strong overall satisfaction and consistent service during that period.
 
-So my recommendation based on this data is to investigate February's high complaint volume by diving into specific feedback themes: Was it because of staffing, cleanliness, check-in delays, etc? Then capitalize on or leverage March's success by identifying what went right: Was it because of right-staffing levels, guest mix, promotions, or else? And replicate or reapply to other months. 
+My recommendation is to investigate the high volume of complaints in February by analyzing specific feedback themes, such as staffing, cleanliness, or check-in delays. Then, leverage the success of March by identifying the factors that contributed to higher satisfaction, whether it was optimal staffing levels, guest mix, promotions, or other elements, and consider replicating those strategies in other months.
 
-10. **Review Score Impact**: Next, the key metric I analyzed is the review score impact on RevPAR and ADR. Here is the result of my analysis on this.
-
+10. **Review Score Impact**: Next, I analyzed how review scores impact RevPAR and ADR. Below are the results of my analysis.
+    
 | **review Score Gruoup**       | **Average ADR**             | **Average RevPAR**             | **Room Nights**                   |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
 | High(>=4.2)                   | 124.74                      | 95.29                          | 109                               |
 
-From the result above, the data shows that the review score group (≥ 4.2), which means that guests who rated their stay 4.2 or higher, is associated with stronger revenue performance. Then, Average ADR (Average Daily Rate) is 124.74, which means that these rooms generate an ADR of 124.74, which likely reflects a better willingness to pay for quality service. And Average RevPAR (Revenue per Available Room) is 95.29, which confirms that not only are rates higher, but occupancy is likely better too. Business insights that can be retrieved from these insights are: High guest satisfaction directly correlates with profitability, and enhancing service quality, cleanliness, and staff responsiveness can probably lead to more 4.2+ reviews, thereby boosting both ADR and RevPAR.
+From the results above, the data shows that guests who rated their stay 4.2 or higher (review score ≥ 4.2) are associated with stronger revenue performance. The average ADR (Average Daily Rate) for this group is 124.74, indicating a higher willingness to pay for quality service. The average RevPAR (Revenue per Available Room) is 95.29, confirming that not only are rates higher, but occupancy is likely better as well.
 
-My suggestion for this hotel is to keep focusing on reputation management by actively responding to guest feedback, encouraging satisfied guests to leave reviews, and investing in training and guest experience improvement, and monitoring and increase revenue performance.
+The business insight here is clear: high guest satisfaction directly correlates with profitability. Enhancing service quality, cleanliness, and staff responsiveness can likely increase the number of 4.2+ reviews, thereby boosting both ADR and RevPAR.
 
-11. **Revenue vs. Room Revenue**: Another important key metric I analyzed is Revenue vs Room Revenue. This metric is quite important since the main service of a hotel is to sell its rooms. By analyzing and comparing both Total Revenue and Room Revenue, we can identify if its rooms really contribute to the overall revenue for this hotel. And here is the result of my analysis.
+My recommendation for this hotel is to continue focusing on reputation management by actively responding to guest feedback, encouraging satisfied guests to leave reviews, investing in staff training and guest experience improvements, and monitoring revenue performance to drive further growth.
+
+11. **Revenue vs. Room Revenue**: Another important key metric I analyzed is Revenue versus Room Revenue. This metric is crucial because the main service of a hotel is selling its rooms. By comparing Total Revenue with Room Revenue, we can determine how much the rooms contribute to the hotel’s overall revenue. Below are the results of my analysis.
 
 | **Month**                     | **Total Room Revenue**      | **Total Revenue**              | **Room Revenue Contribution**     |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
@@ -170,11 +182,11 @@ My suggestion for this hotel is to keep focusing on reputation management by act
 | 7                             | 1465000                     | 1680000                        | 87.0                              |
 | 3                             | 902000                      | 1035000                        | 87.0                              |
 
-From the result above, it is evident that Room Revenue plays a pivotal role for this hotel since the data shows that every month, Room Revenue accounts for 87-89% of the total revenue across these months. This tells that room bookings are the primary revenue for the hotel. February (2) has the highest room revenue contribution at 89%, while March has the lowest in the group at 87%, but still quite high.
+From the results above, it is evident that Room Revenue plays a pivotal role for this hotel, accounting for 87–89% of the total revenue each month. This indicates that room bookings are the primary source of revenue for the hotel. February has the highest room revenue contribution at 89%, while March has the lowest in this range at 87%, which is still quite high.
 
-And my suggestion for this hotel regarding this is focusing on optimizing room sales strategies such as pricing, upselling, and occupancy. Look into additional services like F&B, Spa, or events to diversify income and reduce dependency on room bookings. And investigate if the remaining 11-13% (non-room revenue) can be scaled for better overall profitability.
+My suggestion for this hotel is to focus on optimizing room sales strategies such as pricing, upselling, and occupancy management. Additionally, explore opportunities to grow revenue from other services like F&B, spa, or events to diversify income and reduce reliance on room bookings. Finally, investigate whether the remaining 11–13% of non-room revenue can be scaled to improve overall profitability.
   
-12. **Fixed vs Variable Cost Trends**: Next, I analyzed and compared fixed and variable costs. This key metric is important in order to get a better understanding of how effectively each cost is spent by this hotel, and also how to navigate every cost. Here is my result.
+12. **Fixed vs. Variable Cost Trends**: Next, I analyzed and compared fixed and variable costs. This key metric is important to better understand how effectively each cost is spent by this hotel and how to navigate every cost. Here is my result.
 
 | **Month**        | **Total Fixed Costs**    | **Total Variable Costs**   | **Total Costs**          |**Fixed Costs Percentage**     |**Variable Costs Percentage**     |
 |------------------|--------------------------|----------------------------|--------------------------|-------------------------------|----------------------------------|
@@ -188,7 +200,17 @@ From the data above, the insights that I can summarize from these are that acros
 Then my suggestion regarding this for this hotel is to monitor Variable Cost Drivers since Variable costs are dominating, by focusing on efficiency i guest-related services, utilities, and consumables. 
     
 13. **Managed Guests vs. All Guests**: The Last key metric I analyzed is to compare Managed Guests vs. All Guests. Managed guests are guests of the hotel that actually served, including guests who checked in and were managed by the staff, while All Guests refer to everyone who made a booking, regardless of whether they checked in, canceled, or even were a no-show. And by analyzing it, it gives the hotel insight into both demand and operational performance. Here's my result regarding this:
-  
 
+| **Month**   | **Avg Revenue Managed guests** | **Avg RevPAR Managed Guests** | **Avg Occupancy Managed Guests ** |**Avg RevPAR All**     |**Avg Occupancy All**     |
+|-------------|--------------------------------|-------------------------------|-----------------------------------|-----------------------|--------------------------|
+| 7           | 848.39                         | 4.6                           | 77.58                             | 4.6                   | 0.78                     |
+| 2           | 851.38                         | 4.58                          | 77.97                             | 4.58                  | 0.78                     |
+| 1           | 853.16                         | 4.61                          | 77.84                             | 4.61                  | 0.78                     |
+| 3           | 845.33                         | 4.5                           | 76.7                              | 4.5                   | 0.77                     |
 
+From the data above, Revenue from managed guests is fairly stable, hovering around 845 to 853 per month. This shows consistent income from this segment. Meanwhile, the RevPAR (Revenue per Available Room) for Managed Guests and All guests is nearly identical in each month (around 4.5 to 4.6), which suggests that managed guests contribute proportionally to overall revenue per room. However, Occupancy for Managed Guests is around 77%, while overall occupancy (all guests) is around 0.77-0.78 (or 77-78%). This means that Managed Guests represent almost the entire occupancy share, or they have very similar occupancy levels to the total guest mix. Month 7 shows a slight dip in all metrics compared to the earlier months, which could indicate seasonality or a change in guest patterns.
 
+Overall insights:
+Managed guests contribute significantly and consistently to revenue and occupancy. The similarity in occupancy and RevPAR between managed guests and all guests suggests that managed guests are a major driver of the hotel’s performance. Any marketing or service improvements targeted at managed guests will likely impact overall hotel performance strongly.
+
+Then, my suggestion for this hotel, based on this Managed Guest vs. All guests data, is to strengthen Relationships with Managed Guest Segments, given their steady revenue and occupancy contribution, nurture this segment through loyalty programs, corporate rates, or personalized services. Prioritize Managed Guest Retention, since they perform equally or better than the overall average, ensure consistent service quality, convenience, and follow-up communication to retain them. And leverage data to expand Managed Guest Base, use insights from current Managed Guests to target similar profiles (e.g., long-term corporate stays, business travelers) through focused marketing or partnership.
